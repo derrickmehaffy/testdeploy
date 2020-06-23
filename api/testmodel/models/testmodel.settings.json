@@ -1,0 +1,17 @@
+{
+  "collectionName": "testmodels",
+  "info": {
+    "name": "testmodel",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "comment": ""
+  },
+  "attributes": {
+    "testfield": {
+      "type": "string"
+    }
+  }
+}
