@@ -1,0 +1,23 @@
+{
+  "collectionName": "cars",
+  "info": {
+    "name": "car",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "comment": ""
+  },
+  "attributes": {
+    "make": {
+      "type": "string"
+    },
+    "model": {
+      "type": "string"
+    },
+    "productionyear": {
+      "type": "integer"
+    }
+  }
+}
